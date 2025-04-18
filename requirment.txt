@@ -1,0 +1,5 @@
+python-telegram-bot==20.1
+gTTS==2.2.3
+vosk==0.3.30
+redis==4.0.2
+psycopg2==2.9.3
