@@ -1,5 +1,7 @@
-python-telegram-bot==20.1
-gTTS==2.2.3
-vosk==0.3.30
-redis==4.0.2
-psycopg2==2.9.3
+aiogram==2.23
+pydantic==1.10.2
+apscheduler==3.8.0
+sqlalchemy==2.0.18
+redis==4.5.0
+...
+ 
